@@ -1,0 +1,26 @@
+/*   u can see in css ENGLISH    */
+
+body{
+    width: min-content;
+    height: min-content;
+}
+.quti{
+    width: 700px;
+    height: 700px;
+    padding: 50px;
+    background-color: rgb(37, 56, 50);
+    box-shadow: 15px rgb(49, 10, 10);
+
+    h1{
+        text-align: center;
+        font-size: 4rem;
+        color: white;
+        border: solid red 2px;
+        width: auto;
+        height: auto;
+        font: optional;
+       letter-spacing: normal;
+       word-wrap: none;
+
+    }
+}
